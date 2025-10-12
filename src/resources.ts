@@ -9,7 +9,7 @@ export enum Resource {
   USER_ROLES = 'user_roles',
   USER_PERMISSIONS = 'user_permissions',
   ROLES_LIST = 'roles_list',
-  ROLE_PERMISSIONS = 'role_permission',
+  ROLE_PERMISSIONS = 'role_permissions',
 }
 
 export interface ResourceMeta {
